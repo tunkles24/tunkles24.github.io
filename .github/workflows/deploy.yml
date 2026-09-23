@@ -48,7 +48,7 @@ jobs:
 
           NODE_OPTIONS: --openssl-legacy-provider
 
-          PUBLIC_URL: /pendo-essentials.github.io
+          PUBLIC_URL: /
 
       - uses: actions/configure-pages@v5
 
